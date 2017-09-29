@@ -2,8 +2,8 @@
 Contributors: Agbonghama Collins
 Tags: shop, shops, affiliate, affiliate shop, affiliate shops, jumia, Nigeria, store, affiliate store
 Requires at least: 4.0
-Tested up to: 4.7.1
-Stable tag: 1.3
+Tested up to: 4.8.2
+Stable tag: 1.3.1
 License: GPL-2.0+
 
 Build a Jumia affiliate shop in minutes.
@@ -15,6 +15,9 @@ Build Jumia.com.ng auto-pilotted affiliate shops in minutes so you can make mone
 See the website for more info http://affiliateshop.com.ng
 
 == Changelog ==
+
+= 1.3.1 =
+* Updated crawler dependency lib.
 
 = 1.3 =
 * Added category specific product syncing.
