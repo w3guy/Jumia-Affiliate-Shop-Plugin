@@ -1,6 +1,6 @@
 === Jumia Shop ===
-Contributors: Agbonghama Collins
-Tags: shop, shops, affiliate, affiliate shop, affiliate shops, jumia, Nigeria, store, affiliate store
+Contributors: Seidu Ahmed Tijani
+Tags: shop, shops, affiliate, affiliate shop, affiliate shops, jumia, Ghana, store, affiliate store
 Requires at least: 4.0
 Tested up to: 4.8.2
 Stable tag: 1.3.1
@@ -12,7 +12,7 @@ Build a Jumia affiliate shop in minutes.
 Build Jumia.com.ng auto-pilotted affiliate shops in minutes so you can make money doing nothing even while you sleep.
 
 == Frequently Asked Questions ==
-See the website for more info http://affiliateshop.com.ng
+See the website for more info http://affiliateshop.com.gh
 
 == Changelog ==
 
