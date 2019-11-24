@@ -1,0 +1,3 @@
+.ppview input[type=number], .ppview input[type=text], .ppview select, .ppview textarea {
+    width: 500px
+}
